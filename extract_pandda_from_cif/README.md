@@ -9,7 +9,7 @@ Galen Correy
 
 The ./extract_pandda.sh script does two things.
 
-1. Splits a multi data block CIF into separate data blocks using the split_cif.py script
+1. Splits a multi data block CIF into two data blocks using the split_cif.py script (the refined data and the original data are in one CIF, and the PanDDA event map are in another).
 
 2. Converts the split CIFs into MTZ format using phenix.cif_as_mtz
 
