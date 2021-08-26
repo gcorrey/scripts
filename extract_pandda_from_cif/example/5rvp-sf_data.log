@@ -1,0 +1,31 @@
+Can't determine output label for r5rvpsf,_refln.crystal_id - skipping.
+Can't determine output label for r5rvpsf,_refln.wavelength_id - skipping.
+Can't determine output label for r5rvpsf,_refln.scale_group_code - skipping.
+Can't determine output label for r5rvpsf,_refln.pdbx_F_calc_with_solvent,_refln.pdbx_phase_calc_with_solvent - skipping.
+
+  WARNING: 19265 reflections do not have R-free flags in the array
+  'R-free-flags' - this may cause problems if you try to use the MTZ file
+  for refinement or map calculation.  We recommend that you extend the
+  flags to cover all reflections (--extend_flags on the command line).
+
+
+  WARNING: 19269 reflections do not have R-free flags in the array
+  'R-free-flags' - this may cause problems if you try to use the MTZ file
+  for refinement or map calculation.  We recommend that you extend the
+  flags to cover all reflections (--extend_flags on the command line).
+
+Can't determine output label for r5rvpBsf,_refln.crystal_id - skipping.
+Can't determine output label for r5rvpBsf,_refln.wavelength_id - skipping.
+Can't determine output label for r5rvpBsf,_refln.scale_group_code - skipping.
+
+  WARNING: 19265 reflections do not have R-free flags in the array
+  'R-free-flags' - this may cause problems if you try to use the MTZ file
+  for refinement or map calculation.  We recommend that you extend the
+  flags to cover all reflections (--extend_flags on the command line).
+
+
+  WARNING: 19269 reflections do not have R-free flags in the array
+  'R-free-flags' - this may cause problems if you try to use the MTZ file
+  for refinement or map calculation.  We recommend that you extend the
+  flags to cover all reflections (--extend_flags on the command line).
+
