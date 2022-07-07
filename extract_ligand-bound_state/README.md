@@ -7,7 +7,7 @@ Galen Correy
 
 ### Summary:
 
-The extract_ligand-bound_state.py script extracts the ligand-bound state from multi-state PDB files. The script removes the altloc records for residues that only have a single conformation modeled in the ligand-bound state and renames the altloc records for residues with multiple conformations. 
+The script extracts the ligand-bound state from multi-state PDB files. The script removes the altloc records for residues that only have a single conformation modeled in the ligand-bound state and renames the altloc records for residues with multiple conformations. 
 
 ### Example usage:
 
